@@ -27,4 +27,4 @@ El Salvador &nbsp;·&nbsp; &nbsp;·&nbsp; Available for projects
 
 ---
 
-📬 Reach me at: `diegoalejandroescobarahona1@email.com`
+Reach me at: `diegoalejandroescobarahona1@email.com`
