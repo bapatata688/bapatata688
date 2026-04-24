@@ -23,9 +23,9 @@ I am also expanding my skills into modern technologies and tools used in real-wo
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=bapatata688&show_icons=true&theme=radical&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bapatata688&layout=compact&theme=radical&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=bapatata688&theme=radical&hide_border=true)
 
 ---
 
@@ -33,7 +33,11 @@ I am also expanding my skills into modern technologies and tools used in real-wo
 
 ### Data & Databases
 
-`Python` `Pandas` `PostgreSQL` `MySQL` `Excel`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Frontend
 
