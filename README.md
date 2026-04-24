@@ -1,6 +1,6 @@
 # Diego Escobar
 
-Data Engineering student focused on data analysis, database management, and backend scripting.
+Data Engineering student focused on data analysis and database management.
 
 El Salvador · Available for projects
 
@@ -17,17 +17,12 @@ Currently, I am developing hands-on projects related to:
 - Data pipelines
 - Process automation
 
-I am also expanding my skills into modern technologies and tools used in real-world data engineering environments.
-
 ---
 
 ## GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=bapatata688&show_icons=true&theme=radical&hide_border=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bapatata688&layout=compact&theme=radical&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=bapatata688&theme=radical&hide_border=true)
-
----
 
 ## Tech Stack
 
@@ -43,7 +38,6 @@ I am also expanding my skills into modern technologies and tools used in real-wo
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Tools & Platforms
@@ -53,16 +47,6 @@ I am also expanding my skills into modern technologies and tools used in real-wo
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white)
-
----
-
-## Currently
-
-- Studying Data Engineering
-- Building projects with Python and SQL
-- Learning data pipelines and automation
-- Exploring cloud databases
 
 ---
 
