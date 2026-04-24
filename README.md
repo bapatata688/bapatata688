@@ -2,29 +2,68 @@
 
 Data Engineering student focused on data analysis, database management, and backend scripting.
 
-El Salvador &nbsp;·&nbsp; &nbsp;·&nbsp; Available for projects
+El Salvador · Available for projects
 
 ---
 
-## Tech stack
+## About Me
 
-**Data & databases**
+I am a **Data Engineering student** focused on data analysis, database management, and backend scripting. I enjoy building efficient and scalable solutions using **Python** and **SQL**, applying best practices in data organization and processing.
+
+Currently, I am developing hands-on projects related to:
+
+- Data analysis with Python
+- Database design and optimization
+- Data pipelines
+- Process automation
+
+I am also expanding my skills into modern technologies and tools used in real-world data engineering environments.
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
+
+---
+
+## Tech Stack
+
+### Data & Databases
+
 `Python` `Pandas` `PostgreSQL` `MySQL` `Excel`
 
-**Frontend**
-`JavaScript` `HTML` `CSS` `Tailwind CSS`
+### Frontend
 
-**Tools & platforms**
-`Git` `GitHub` `GitLab` `Bash`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white)
 
 ---
 
 ## Currently
 
 - Studying Data Engineering
-- Building data analysis projects with Python and SQL
-- Expanding into data pipelines and cloud databases
+- Building projects with Python and SQL
+- Learning data pipelines and automation
+- Exploring cloud databases
 
 ---
 
-Reach me at: `diegoalejandroescobarahona1@email.com`
+---
+
+## Contact
+
+- Email: `diegoalejandroescobarahona1@email.com`
