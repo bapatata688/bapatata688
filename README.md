@@ -21,10 +21,10 @@ Currently, I am developing hands-on projects related to:
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=bapatata688&show_icons=true&theme=radical&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bapatata688&theme=radical&hide_border=true)
-
-## Tech Stack
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bapatata688&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bapatata688&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
 
 ### Data & Databases
 
