@@ -1,9 +1,5 @@
 # Diego Escobar
 
-Data Engineering student focused on data analysis and database management.
-
-El Salvador · Available for projects
-
 ---
 
 ## About Me
@@ -15,7 +11,6 @@ Currently, I am developing hands-on projects related to:
 - Data analysis with Python
 - Database design and optimization
 - Data pipelines
-- Process automation
 
 ---
 
